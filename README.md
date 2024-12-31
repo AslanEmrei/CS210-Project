@@ -32,7 +32,7 @@ As a beginner investor, I have always been curious about the interplay between m
   - Songs listened to (track names, artists)
   - Listening duration
   - Timestamps of when songs were played
-  - Genres of the songs
+  
     
 
 ---
@@ -41,12 +41,12 @@ As a beginner investor, I have always been curious about the interplay between m
 
 1. *Exploratory Data Analysis (EDA):*
    - Analyze trends in stock market data (e.g., price movements, volume changes).
-   - Explore Spotify usage patterns (e.g., favorite genres, peak listening times).
+   - Explore Spotify usage patterns (e.g. peak listening times).
    - Visualize relationships and anomalies in both datasets.
 
 2. *Correlation Analysis:*
    - Investigate potential correlations between BIST100 fluctuations and changes in music preferences.
-   - Determine if mood shifts, reflected in music choices, align with stock market performance.
+   - Determine if time shifts, reflected in music choices, align with stock market performance.
 
 3. *Machine Learning Models:*
    - Build predictive models to assess music preferences based on stock market changes.
