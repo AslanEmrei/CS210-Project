@@ -4,7 +4,6 @@
 
 ## Introduction
 This project is part of the Sabancı University - CS210 Introduction to Data Science course. It explores the connection between financial market behavior and personal music preferences by analyzing two different datasets:
-
 1. 1-Year Weekly Historical Data of BIST100 (Borsa Istanbul)  
 2. 1-Year Personal Spotify Usage Data
 
